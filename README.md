@@ -1,4 +1,7 @@
-## TRABAJO-FINAL
+# # TRABAJO-FINAL
+
+## Nombre: Marlon Andrés Cumbal Cumbal
+## Caso: Cáncer de mama
 
 El documento es una base de datos que contiene diversas métricas, algunas de las cuales no están estandarizadas en cuanto a su formato. Para mejorar la calidad de los datos, se agregaron sufijos a estas métricas. Posteriormente, se realizó una limpieza de los datos, eliminando aquellos que no eran relevantes para el modelo.
 
